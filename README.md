@@ -626,6 +626,13 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Using machine learning to predict the effects and consequences of mutations in proteins.**
+Daniel J. Diaz, Anastasiya V. Kulikova, Andrew D. Ellington, Claus O. Wilke
+Current Opinion in Structural Biology Volume 78, February 2023
+[https://www.sciencedirect.com/science/article/abs/pii/S0959440X2200197X] (https://doi.org/10.1016/j.sbi.2022.102518)
+
+
+
 **Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers.**  
 Allan Costa, Manvitha Ponnapati, Joseph M. Jacobson, Pranam Chatterjee.  
 *Preprint, June 2021.*  

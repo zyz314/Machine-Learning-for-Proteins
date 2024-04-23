@@ -8,12 +8,7 @@ To the best of our knowledge, this is the first public, collaborative list of ma
 
 ### Format
 
-        
-     
 
-
-
-        
    
 
 

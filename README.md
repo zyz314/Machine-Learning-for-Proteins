@@ -6,8 +6,7 @@ We recently released a [review](https://arxiv.org/abs/1811.10775) of machine lea
 
 To the best of our knowledge, this is the first public, collaborative list of machine learning papers on protein applications. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
 
-### Format
-
+### Form
 Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided.
 
 ### Categories
